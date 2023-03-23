@@ -13,7 +13,6 @@ MetroStation = fact(
 STATION_ABBR = morph_pipeline(['ст']).interpretation(MetroStation.s)
 STATION_FULL = morph_pipeline(['станция']).interpretation(MetroStation.s)
 METRO = morph_pipeline(['метро']).interpretation(MetroStation.m)
-# TODO: брать из файла
 KNOWN_NAME = morph_pipeline([
     'Авиамоторная',
     'Академическая',
