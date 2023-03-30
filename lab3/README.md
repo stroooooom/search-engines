@@ -46,6 +46,6 @@
 Спродюссировал
 (Producer) -[produced]-> [Visual_art_work]
 
-[image](https://user-images.githubusercontent.com/26445519/228825073-77a0f866-16a0-4c11-a7d0-65275ad3ef6e.jpg)
+![Онтология](image.jpg)
  
  
