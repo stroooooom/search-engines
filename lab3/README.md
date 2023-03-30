@@ -1,6 +1,4 @@
-# Лабораторная №2
-
-[Исходная статья на вики](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD%D0%B0)
+# Лабораторная №3
 
 ## Предметная область
 В качетсве предметной области выбрано кино.
@@ -47,4 +45,7 @@
 
 Спродюссировал
 (Producer) -[produced]-> [Visual_art_work]
+
+[image](https://user-images.githubusercontent.com/26445519/228825073-77a0f866-16a0-4c11-a7d0-65275ad3ef6e.jpg)
+ 
  
